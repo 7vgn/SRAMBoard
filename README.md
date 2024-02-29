@@ -12,5 +12,3 @@ This repository contains:
 - The [bill of materials](BOM/BOM.pdf)
 - [Test code](Tests/) for testing and debugging the board
 
-> [!WARNING]
-> This is a work in progress. While the project is mostly finished, there is still some testing to do. If you want to try it out in its current state, feel free to do so and let me know how it went. 
