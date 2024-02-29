@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SRAMBoard")(type "KiCad")(uri "${KIPRJMOD}/SRAMBoard.pretty")(options "")(descr ""))
+)
